@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "facebook/opt-1.3b",
+  "_name_or_path": "/home/yaohuayang/baoyue.shen/CODE/DeepSpeed/opt-1.3B",
   "activation_dropout": 0.0,
   "activation_function": "relu",
   "architectures": [
